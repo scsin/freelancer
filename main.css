@@ -1,0 +1,173 @@
+
+main {
+  text-align: center;
+}
+
+.firstBlock {
+  font-family: 'Montserrat', sans-serif;
+  margin: -8px;
+  width: auto;
+  height: 130px;
+  background: rgb(44, 62, 80);
+  color: rgb(255, 255, 255);
+}
+
+.firstBlock h1 {
+  float: left;
+  /* margin: 50px; */
+  padding-left: 100px;
+  padding-top: 30px;
+  font-size: 20pt;
+}
+
+.firstBlock ul {
+  float: right;
+  font-size: 16pt;
+}
+
+.firstBlock li {
+  display: inline-block;
+  padding: 30px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25pt;
+}
+
+.secondBlock h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 70pt;
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+.secondBlock h3 {
+  font-family: 'Lato', sans-serif;
+  font-size: 20pt;
+}
+
+.secondBlock {
+  color: rgb(255, 255, 255);
+  margin-top: 8px;
+  margin-left: -8px;
+  margin-right: -8px;
+  width: auto;
+  height: 700px;
+  background: rgb(24, 188, 156);
+}
+
+.secondBlock img {
+  margin-top: 100px;
+}
+
+.thirdBlock {
+  margin-top: 8px;
+  margin-left: -8px;
+  margin-right: -8px;
+  padding: 40px;
+  width: auto;
+  height: 700px
+}
+
+.thirdBlock img {
+  width: 300px;
+  height: auto;
+  margin: 10px;
+}
+
+.fourthBlock {
+  color: rgb(255, 255, 255);
+  margin: -8px;
+  padding-top: 40px;
+  width: auto;
+  height: 500px;
+  background: rgb(24, 188, 156);
+}
+
+.fourthBlock p {
+  font-family: 'Lato', sans-serif;
+  margin: 30px;
+  width: 300px;
+  display: inline-block;
+  text-align: left;
+  font-size: 14pt;
+}
+
+.fourthBlock button {
+  font-size: 13pt;
+  width: 200px;
+  height: 50px;
+  border: solid;
+  border-width: 2px;;
+  border-color: rgb(255, 255, 255);
+}
+
+.fifthBlock {
+  padding-top: 50px;
+  width: auto;
+  height: 600px;
+}
+
+.fifthBlock input {
+  font-family: "Lato", sans-serif;
+  color: rgb(180, 180, 180);
+  border-style:hidden;
+  border-bottom-style: solid;
+}
+
+button {
+  background-color: rgb(24, 188, 156);
+  border: none;
+  border-radius: 3px;
+  font-family: 'Lato', sans-serif;
+  color: rgb(255, 255, 255);
+  width: 70px;
+  height: 30px;
+}
+
+button:hover {
+  background-color: rgb(10, 170, 140);
+}
+
+/* button:focus {
+  border-style: none;
+} */
+
+.sixthBlock {
+  color: rgb(255, 255, 255);
+  margin: -8px;
+  width: auto;
+  height: 250px;
+  background: rgb(44, 62, 80);
+}
+
+.sixthBlock li {
+  display: inline-block;
+  padding-left: 100px;
+  padding-right: 100px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13pt;
+}
+
+.sixthBlock p {
+  font-family: "Lato", sans-serif;
+  display: inline-block;
+  font-family: 'Lato', sans-serif;
+  font-size: 9pt;
+}
+
+#loc {
+  padding-left: 100px;
+  padding-right: 350px;
+}
+
+#about {
+  padding-left: 170px;
+  padding-right: 100px;
+}
+
+#cpr {
+
+}
+/* position: fixed; */
