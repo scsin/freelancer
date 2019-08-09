@@ -1,11 +1,15 @@
 
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
 main {
   text-align: center;
 }
 
 .firstBlock {
   font-family: 'Montserrat', sans-serif;
-  margin: -8px;
   width: auto;
   height: 130px;
   background: rgb(44, 62, 80);
@@ -49,7 +53,6 @@ h2 {
 
 .secondBlock {
   color: rgb(255, 255, 255);
-  margin-top: 8px;
   margin-left: -8px;
   margin-right: -8px;
   width: auto;
@@ -62,7 +65,6 @@ h2 {
 }
 
 .thirdBlock {
-  margin-top: 8px;
   margin-left: -8px;
   margin-right: -8px;
   padding: 40px;

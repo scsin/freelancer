@@ -1,9 +1,15 @@
+# FREELANCER
 
-O repositório Freelancer contém três pastas:
-  - assets/images (imagens)
-  - css (estilo da página)
-  - docs (layout da página original)
+[PROJETO](https://scsin.github.io/freelancer/)
 
-Além disso também estão no repositório os arquivos:
-  - Readme.md (conteúdo do repositório)
-  - index.HTML (estruturação da página)
+
+O desafio consiste em replicar o site Freelancer e o resultado desejado é este:
+![Freelancer Website](docs/fullpage.png)
+
+
+O repositório Freelancer contém três pastas e dois arquivos:
+  - assets/images (page images)
+  - css (style page)
+  - docs (original page)
+  - index.HTML
+  - README.md
