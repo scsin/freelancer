@@ -11,5 +11,5 @@ O repositório Freelancer contém três pastas e dois arquivos:
   - assets/images (page images)
   - css (style page)
   - docs (original page)
-  - index.HTML
+  - index.html
   - README.md
